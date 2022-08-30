@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800&family=Quicksand:wght@400;700&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FFFFFF;
+}
+
+.imagehead{
+    background-image: url("./img/headc.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-brand {
+  font-size: 1.75rem;
+  letter-spacing: 3px;
+}
+.nav-item{
+    padding-left: 50px;
+}
+
+.nav-link{
+    color: white;
+
+}
+.active{
+    color: #CC9544;
+}
+
+.highlight{
+    font-style: bold;
+    font-weight: 600;
+    color: #603601;
+}
+
+.title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.47em;
+    color: #CC9544;
+}
+.pack, .icon{
+    padding: 7.5% 0;
+}
+.line{
+    justify-content: center;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.245em;
+    color: #FFFFFF;
+}
+.lines{
+    color: #161616;
+    line-height: 30px;
+    font-size: 20px;
+}
+.half{
+    background-image: url(./img/halff.svg);
+    background-size: 650px;
+    background-repeat: no-repeat;
+}
+h2{
+    color: #603601;
+}
+footer{
+    color: #FFFFFF;
+}
+.ratetofoot{
+    background-image: url(./img/foo.svg);
+    background-size: cover;
+}
+
